@@ -12,7 +12,7 @@ st.title("Bienvenido")
 st.markdown("### Iglesia El Shaddai Praderas")
 
 # Agregar imagen del logotipo
-st.image("logo.png", use_column_width=True)  # Reemplaza "logo.png" con el nombre de tu archivo de imagen
+st.image("logo.png", use_container_width=True)  # Reemplaza "logo.png" con el nombre de tu archivo de imagen
 
 # Sección de visión
 st.markdown("---")  # Línea divisoria
